@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello my name is Kyryl and I am a young developer working on a lot of cool and innovative projects. I'm currently learning C++ to create some arduino projects and code some games with OpenGL. I'm currently working on a arduino car that can expand itself to cross gaps, I'm also working on a 2D platformer.
 
 <!--
 **kyryltech/kyryltech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
